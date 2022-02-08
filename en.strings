@@ -9,8 +9,8 @@
 "travel.free_roam" = "Free roam";
 "trip_details.trip_details" = "Trip Details";
 "rating.rating_numeral.91" = "4.6";
-"price_widget.price_numeral.73" = "5.70";
 "price_widget.price_numeral.82" = "1.15";
+"price_widget.price_numeral.73" = "5.70";
 "rating.rating_numeral.36" = "3.9";
 "search.planet_listing.venus.text" = "Venus";
 "location_details.button.take_a_trip" = "Take a trip";
@@ -32,8 +32,8 @@
 "header.header_text" = "Featured destinations";
 "price_widget.price_numeral.94" = "2.50";
 "experience_title.meitner_venus" = "Meitner, Venus";
-"rating.rating_numeral.99" = "4.7";
 "region_planet.syrtis_major__mars" = "Syrtis Major, Mars";
+"rating.rating_numeral.99" = "4.7";
 "price_widget.price_numeral.69" = "3.25";
 "experience_location.experience_title.73" = "Vintage Voyager";
 "rating.rating_numeral.17" = "4.3";
